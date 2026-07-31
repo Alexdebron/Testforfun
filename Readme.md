@@ -31,8 +31,8 @@ pkg install python git -y
 ### Step 4: Clone This Repository
 
 ```bash
-git clone https://github.com/<your-username>/ddos-stress.git
-cd ddos-stress
+git clone https://github.com/Alexdebron/Testforfun.git
+cd Testforfun
 ```
 
 ### Step 5: Install Dependencies
